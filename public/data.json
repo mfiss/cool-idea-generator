@@ -1,0 +1,711 @@
+{
+  "title" : "Idea Generator",
+  "wordSelections" : [
+    {
+      "word" : "article",
+      "sentenceStructure" : "article",
+      "wordType" : "article",
+      "selected" : true
+    },
+    {
+      "word" : "subject adjective",
+      "sentenceStructure" : "subject adjective",
+      "wordType" : "adjective",
+      "selected" : true
+    },
+    {
+      "word" : "subject",
+      "sentenceStructure" : "subject",
+      "wordType" : "noun",
+      "selected" : true
+    },
+    {
+      "word" : "adverb",
+      "sentenceStructure" : "adverb",
+      "wordType" : "adverb",
+      "selected" : false
+    },
+    {
+      "word" : "verb",
+      "sentenceStructure" : "verb",
+      "wordType" : "verb",
+      "selected" : false
+    },
+    {
+      "word" : "direct object",
+      "sentenceStructure" : "direct object",
+      "wordType" : "noun",
+      "selected" : false
+    },
+    {
+      "word" : "preposition",
+      "sentenceStructure" : "preposition",
+      "wordType" : "preposition",
+      "selected" : false
+    },
+    {
+      "word" : "indirect object article",
+      "sentenceStructure" : "indirect object article",
+      "wordType" : "articlee",
+      "selected" : false
+    },
+    {
+      "word" : "indirect object adjective",
+      "sentenceStructure" : "indirect object adjective",
+      "wordType" : "adjective",
+      "selected" : false
+    },
+    {
+      "word" : "indirect object",
+      "sentenceStructure" : "indirect object",
+      "wordType" : "noun",
+      "selected" : false
+    }
+  ],
+  "words" : [
+   {
+    "word" : "a",
+    "wordType" : "article"
+  },    
+  {
+    "word" : "abandoned",
+    "wordType" : "adjective",
+    "tags" : "spooky"
+  },
+  {
+    "word" : "able",
+    "wordType" : "adjective"
+  },        
+  {
+    "word" : "ability",
+    "wordType" : "noun",
+    "nounType" : "thing"
+  },
+  {
+    "word" : "aboard",
+    "wordType" : [ "adverb", "preposition"]
+  },
+  {
+    "word" : "about",
+    "wordType" : "preposition"
+  },        
+  {
+    "word" : "above",
+    "wordType" : ["adverb", "preposition"]
+  },
+  {
+    "word" : "accept",
+    "wordType" : "verb"
+  },
+  {
+    "word" : "according",
+    "wordType" : "adverb"
+  },
+  {
+    "word" : "account",
+    "wordType" : "noun",
+    "nounType" : "thing"
+  },
+  {
+   "word" : "accident",
+   "wordType" : "noun",
+   "nounType" : "thing"
+ },  
+ {
+  "word" : "achre",
+  "wordType" : "noun",
+  "nounType" : "thing"
+}, 
+{
+  "word" : "across",
+  "wordType" : "preposition"
+},
+
+{
+  "word" : "action",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "active",
+  "wordType" : "adjective"
+}, 
+{
+  "word" : "activity",
+  "wordType" : "noun",
+  "nounType" : "thing"
+}, 
+{
+  "word" : "act",
+  "wordType" : "verb"
+},
+{
+  "word" : "actual",
+  "wordType" : "adjective"
+},
+{
+  "word" : "actually",
+  "wordType" : "adverb"
+},
+{
+  "word" : "accurate",
+  "wordType" : "adjective"
+},
+{
+  "word" : "add",
+  "wordType" : "verb"
+},
+{
+  "word" : "addition",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "additional",
+  "wordType" : "adjective"
+},
+{
+  "word" : "additionally",
+  "wordType" : "adverb"
+},
+{
+  "word" : "adult",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "adventure",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "advice",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "affect",
+  "wordType" : "verb"
+},
+{
+  "word" : "afraid",
+  "wordType" : "adjective"
+},
+{
+  "word" : "after",
+  "wordType" : "preposition"
+},
+{
+  "word" : "afternoon",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "again",
+  "wordType" : "adverb"
+},
+{
+  "word" : "against",
+  "wordType" : "preposition"
+},
+{
+  "word" : "age",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "ago",
+  "wordType" : "adjective, adverb"
+},
+{
+  "word" : "agree",
+  "wordType" : "verb"
+},
+{
+  "word" : "ahead",
+  "wordType" : "adverb"
+},
+{
+  "word" : "aid",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "aid",
+  "wordType" : "verb"
+},
+{
+  "word" : "air",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "airplane",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "alike",
+  "wordType" : "adverb, adjective"
+},
+{
+  "word" : "alive",
+  "wordType" : "adjective"
+},
+{
+  "word" : "all",
+  "wordType" : "adjective"
+},
+{
+  "word" : "allow",
+  "wordType" : "verb"
+},
+{
+  "word" : "almost",
+  "wordType" : "adverb"
+},
+{
+  "word" : "alone",
+  "wordType" : "adjective"
+},
+{
+  "word" : "along",
+  "wordType" : "adjective"
+},
+{
+  "word" : "aloud",
+  "wordType" : "adverb"
+},
+{
+  "word" : "alphabet",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "already",
+  "wordType" : "adverb"
+},
+{
+  "word" : "also",
+  "wordType" : [ "adverb", "conjunction" ]
+},
+{
+  "word" : "although",
+  "wordType" : "conjunction"
+},
+{
+  "word" : "among",
+  "wordType" : "preposition"
+},
+{
+  "word" : "amount",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "ancient",
+  "wordType" : "adjective"
+},
+{
+  "word" : "an",
+  "wordType" : "article"
+},   
+{
+  "word" : "angle",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "angry",
+  "wordType" : "adjective",
+  "tags" : "emotion"
+},
+{
+  "word" : "animal",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "announce",
+  "wordType" : "verb"
+},
+{
+  "word" : "another",
+  "wordType" : "adjective"
+},
+{
+  "word" : "answer",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "ant",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "any",
+  "wordType" : [ "adjective", "adverb" ]
+},
+{
+  "word" : "anybody",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "anyone",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "anything",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "anyway",
+  "wordType" : "adverb"
+},
+{
+  "word" : "anywhere",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "apart",
+  "wordType" : "adverb"
+},
+{
+  "word" : "apartment",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "appearance",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "apple",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "apply",
+  "wordType" : "verb"
+},
+{
+  "word" : "appropriate",
+  "wordType" : "adjective"
+},
+{
+  "word" : "area",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "argue",
+  "wordType" : "verb"
+},
+{
+  "word" : "apple",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "arm",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "armament",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "armory",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "army",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "around",
+  "wordType" : "preposition"
+},
+{
+  "word" : "arrange",
+  "wordType" : "verb"
+},
+{
+  "word" : "arrangement",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "arrive",
+  "wordType" : "verb"
+},
+{
+  "word" : "arrow",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "art",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "article",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "as",
+  "wordType" : "adverb"
+},
+{
+  "word" : "aside",
+  "wordType" : "preposition"
+},
+{
+  "word" : "ask",
+  "wordType" : "verb"
+},
+{
+  "word" : "asleep",
+  "wordType" : "adverb"
+},
+{
+  "word" : "at",
+  "wordType" : "preposition"
+},
+{
+  "word" : "atmosphere",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "atom",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "atomic",
+  "wordType" : "adjective"
+},
+{
+  "word" : "attach",
+  "wordType" : "verb"
+},
+{
+  "word" : "attack",
+  "wordType" : "verb"
+},
+{
+  "word" : "attempt",
+  "wordType" : "verb"
+},
+{
+  "word" : "attention",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "audience",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "author",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "automobile",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "available",
+  "wordType" : "adjective"
+},
+{
+  "word" : "average",
+  "wordType" : "adjective"
+},
+{
+  "word" : "avoid",
+  "wordType" : "verb"
+},
+{
+  "word" : "aware",
+  "wordType" : "adjective"
+},
+{
+  "word" : "away",
+  "wordType" : "adverb"
+},
+{
+  "word" : "baby",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "back",
+  "wordType" : [ "noun", "verb", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "bad",
+  "wordType" : "adjective"
+},
+{
+  "word" : "badly",
+  "wordType" : "adverb"
+},
+{
+  "word" : "bag",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "balance",
+  "wordType" : "verb"
+},
+{
+  "word" : "ball",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "balloon",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "band",
+  "wordType" : "noun",
+  "nounType" : ["thing" , "person" ]
+},
+{
+  "word" : "bank",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "bar",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "bare",
+  "wordType" : "adjective"
+},
+{
+  "word" : "bark",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing"   
+},
+{
+  "word" : "barn",
+  "wordType" : "noun",
+  "nounType" : "place"   
+},
+{
+  "word" : "base",
+  "wordType" : "noun",
+  "nounType" : [ "thing", "place" ]  
+},
+{
+  "word" : "baseball",
+  "wordType" : "noun",
+  "nounType" : "thing" 
+},
+{
+  "word" : "basic",
+  "wordType" : "adjective"
+},
+{
+  "word" : "basket",
+  "wordType" : "noun",
+  "nounType" : "thing" 
+},
+{
+  "word" : "bat",
+  "wordType" : "noun",
+  "nounType" : "thing" 
+},
+{
+  "word" : "battle",
+  "wordType" : "noun",
+  "nounType" : "thing" 
+},
+{
+  "word" : "bean",
+  "wordType" : "noun",
+  "nounType" : "thing" 
+},
+{
+  "word" : "bear",
+  "wordType" : [ "verb", "noun" ],
+  "nounType" : "person" 
+},
+{
+  "word" : "beautiful",
+  "wordType" : "adjective"
+},
+{
+  "word" : "before",
+  "wordType" : "preposition"
+},
+{
+  "word" : "begin",
+  "wordType" : "verb"
+},
+{
+  "word" : "behavior",
+  "wordType" : "noun",
+  "nounType" : "thing"   
+},
+{
+  "word" : "behind",
+  "wordType" : "preposition"  
+},
+{
+  "word" : "being",
+  "wordType" : "noun",
+  "nounType" : "person"   
+},
+{
+  "word" : "believe",
+  "wordType" : "verb" 
+},
+{
+  "word" : "bizarre",
+  "wordType" : "adjective"
+},
+{
+  "word" : "black",
+  "wordType" : "adjective",
+  "tags" : "color"
+},
+{
+  "word" : "building",
+  "wordType" : "noun",
+  "nounType" : ["place", "thing"]
+},
+{
+  "word" : "eat",
+  "wordType" : "verb"
+},
+{
+  "word" : "the",
+  "wordType" : "article"
+}    
+]
+}
