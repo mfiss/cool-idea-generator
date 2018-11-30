@@ -1,0 +1,7089 @@
+[
+   {
+    "word" : "a",
+    "wordType" : "article"
+  },
+  {
+    "word" : "abandoned",
+    "wordType" : "adjective",
+    "tags" : "spooky"
+  },
+  {
+    "word" : "able",
+    "wordType" : "adjective"
+  },
+  {
+    "word" : "ability",
+    "wordType" : "noun",
+    "nounType" : "idea"
+  },
+  {
+    "word" : "aboard",
+    "wordType" : [ "adverb", "preposition"]
+  },
+  {
+    "word" : "about",
+    "wordType" : "preposition"
+  },
+  {
+    "word" : "above",
+    "wordType" : ["adverb", "preposition"]
+  },
+  {
+  "word" : "absolute",
+  "wordType" : "adjective"
+  },
+  {
+  "word" : "absolutely",
+  "wordType" : "adverb"
+},
+  {
+    "word" : "accept",
+    "wordType" : "verb",
+    "verbType" : "transitive"
+  },
+  {
+    "word" : "according",
+    "wordType" : "adverb"
+  },
+  {
+    "word" : "account",
+    "wordType" : "noun",
+    "nounType" : "thing"
+  },
+  {
+   "word" : "accident",
+   "wordType" : "noun",
+   "nounType" : "thing"
+ },
+ {
+  "word" : "achre",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "across",
+  "wordType" : "preposition"
+},
+
+{
+  "word" : "action",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "active",
+  "wordType" : "adjective"
+},
+{
+  "word" : "activity",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "act",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "actual",
+  "wordType" : "adjective"
+},
+{
+  "word" : "actually",
+  "wordType" : "adverb"
+},
+{
+  "word" : "accurate",
+  "wordType" : "adjective"
+},
+{
+  "word" : "add",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "addition",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "additional",
+  "wordType" : "adjective"
+},
+{
+  "word" : "additionally",
+  "wordType" : "adverb"
+},
+{
+  "word" : "adult",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "adventure",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "advice",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "affect",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "afraid",
+  "wordType" : "adjective"
+},
+{
+  "word" : "after",
+  "wordType" : "preposition"
+},
+{
+  "word" : "afternoon",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "again",
+  "wordType" : "adverb"
+},
+{
+  "word" : "against",
+  "wordType" : "preposition"
+},
+{
+  "word" : "age",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "ago",
+  "wordType" : "adjective, adverb"
+},
+{
+  "word" : "agree",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "ahead",
+  "wordType" : "adverb"
+},
+{
+  "word" : "aid",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "aid",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "air",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "airplane",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "alien",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "person"
+},
+{
+  "word" : "alike",
+  "wordType" : "adverb, adjective"
+},
+{
+  "word" : "alive",
+  "wordType" : "adjective"
+},
+{
+  "word" : "all",
+  "wordType" : "adjective"
+},
+{
+  "word" : "allow",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "almost",
+  "wordType" : "adverb"
+},
+{
+  "word" : "alone",
+  "wordType" : "adjective"
+},
+{
+  "word" : "along",
+  "wordType" : ["preposition", "adverb"]
+},
+{
+  "word" : "aloud",
+  "wordType" : "adverb"
+},
+{
+  "word" : "alphabet",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "already",
+  "wordType" : "adverb"
+},
+{
+  "word" : "also",
+  "wordType" : [ "adverb", "conjunction" ]
+},
+{
+  "word" : "although",
+  "wordType" : "conjunction"
+},
+{
+  "word" : "among",
+  "wordType" : "preposition"
+},
+{
+  "word" : "amount",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "ancient",
+  "wordType" : "adjective"
+},
+{
+  "word" : "an",
+  "wordType" : "article"
+},
+{
+  "word" : "angle",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "anger",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "angry",
+  "wordType" : "adjective",
+  "tags" : "emotion"
+},
+{
+  "word" : "animal",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "announce",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "announcement",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "another",
+  "wordType" : "adjective"
+},
+{
+  "word" : "answer",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "ant",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "anxiety",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "anxious",
+  "wordType" : "adjective"
+},
+{
+  "word" : "any",
+  "wordType" : [ "adjective", "adverb" ]
+},
+{
+  "word" : "anybody",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "anyone",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "anything",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "anyway",
+  "wordType" : "adverb"
+},
+{
+  "word" : "anywhere",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "apart",
+  "wordType" : "adverb"
+},
+{
+  "word" : "apartment",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "ape",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "appearance",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "apple",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "apply",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "appropriate",
+  "wordType" : "adjective"
+},
+{
+  "word" : "area",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "argue",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "arm",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "armament",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "armory",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "army",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "around",
+  "wordType" : "preposition"
+},
+{
+  "word" : "arrange",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "arrangement",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "arrive",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "arrow",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "art",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "article",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "as",
+  "wordType" : "adverb"
+},
+{
+  "word" : "aside",
+  "wordType" : "preposition"
+},
+{
+  "word" : "ask",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "asleep",
+  "wordType" : "adverb"
+},
+{
+  "word" : "at",
+  "wordType" : "preposition"
+},
+{
+  "word" : "atmosphere",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "atom",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "atomic",
+  "wordType" : "adjective"
+},
+{
+  "word" : "attach",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "attack",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "attempt",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "attention",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "audience",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "author",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "automobile",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "available",
+  "wordType" : "adjective"
+},
+{
+  "word" : "average",
+  "wordType" : "adjective"
+},
+{
+  "word" : "avoid",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "aware",
+  "wordType" : "adjective"
+},
+{
+  "word" : "away",
+  "wordType" : "adverb"
+},
+{
+  "word" : "baby",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "back",
+  "wordType" : [ "noun", "verb", "adjective" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "bad",
+  "wordType" : "adjective"
+},
+{
+  "word" : "badly",
+  "wordType" : "adverb"
+},
+{
+  "word" : "bag",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "balance",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "ball",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "balloon",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "band",
+  "wordType" : "noun",
+  "nounType" : ["thing" , "person" ]
+},
+{
+  "word" : "bank",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "bar",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "bare",
+  "wordType" : "adjective"
+},
+{
+  "word" : "bark",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "barn",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "base",
+  "wordType" : "noun",
+  "nounType" : [ "thing", "place" ]
+},
+{
+  "word" : "baseball",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "basic",
+  "wordType" : "adjective"
+},
+{
+  "word" : "basket",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "bat",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "battle",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "bean",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "bear",
+  "wordType" : [ "verb", "noun" ],
+  "nounType" : "person",
+  "verbType" : "transitive"
+},
+{
+  "word" : "beautiful",
+  "wordType" : "adjective"
+},
+{
+  "word" : "because",
+  "wordType" : "conjunction"
+},
+{
+  "word" : "before",
+  "wordType" : "preposition"
+},
+{
+  "word" : "begin",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "behavior",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "behind",
+  "wordType" : "preposition"
+},
+{
+  "word" : "being",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "believe",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "bell",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "belong",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "below",
+  "wordType" : "preposition"
+},
+{
+  "word" : "belt",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "bend",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "beneath",
+  "wordType" : "preposition"
+},
+{
+  "word" : "bent",
+  "wordType" : "adjective"
+},
+{
+  "word" : "beside",
+  "wordType" : "preposition"
+},
+{
+  "word" : "best",
+  "wordType" : "adjective"
+},
+{
+  "word" : "bet",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "better",
+  "wordType" : "adjective"
+},
+{
+  "word" : "between",
+  "wordType" : "preposition"
+},
+{
+  "word" : "beyond",
+  "wordType" : "preposition"
+},
+{
+  "word" : "bicycle",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "bigger",
+  "wordType" : "adjective"
+},
+{
+  "word" : "biggest",
+  "wordType" : "adjective"
+},
+{
+  "word" : "bill",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "bird",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "birth",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "birthday",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "bit",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "bite",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "bizarre",
+  "wordType" : "adjective"
+},
+{
+  "word" : "black",
+  "wordType" : "adjective",
+  "tags" : "color"
+},
+{
+  "word" : "blank",
+  "wordType" : "adjective"
+},
+{
+  "word" : "blanket",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "blind",
+  "wordType" : "adjective"
+},
+{
+  "word" : "block",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "blood",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "bloody",
+  "wordType" : "adjective"
+},
+{
+  "word" : "blow",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "blue",
+  "wordType" : "adjective",
+  "tags" : "color"
+},
+{
+  "word" : "board",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "boat",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "body",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "bone",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "book",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "border",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "bore",
+  "wordType" : [ "verb", "noun" ],
+  "verbType" : "intransitive",
+  "nounType" : "idea"
+},
+{
+  "word" : "bored",
+  "wordType" : "adjective"
+},
+{
+  "word" : "boring",
+  "wordType" : "adjective"
+},
+{
+  "word" : "bottle",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "bottom",
+  "wordType" : [ "noun", "adjective", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "bound",
+  "wordType" : [ "noun", "verb]" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "bow",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "bowl",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "box",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "boy",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "brain",
+  "wordType" : "noun",
+  "nounType" : [ "thing", "person" ]
+},
+{
+  "word" : "branch",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "brass",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "brave",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "person"
+},
+{
+  "word" : "breach",
+  "wordType" : ["noun", "verb" ],
+  "nounType" : "place",
+  "verbType" : "transitive"
+},
+{
+  "word" : "bread",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "break",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "breakfast",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "breath",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "breathe",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "breeze",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "brick",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "bridge",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : [ "thing" , "place"],
+  "verbType" : "transitive"
+},
+{
+  "word" : "brief",
+  "wordType" : [ "adjective" , "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "bright",
+  "wordType" : "adjective"
+},
+{
+  "word" : "bring",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "broad",
+  "wordType" : "adjective"
+},
+{
+  "word" : "broken",
+  "wordType" : "adjective"
+},
+{
+  "word" : "brother",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "brown",
+  "wordType" : "adjective",
+  "tags" : "color"
+},
+{
+  "word" : "brush",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "buffalo",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "bug",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "build",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "building",
+  "wordType" : "noun",
+  "nounType" : ["place", "thing"]
+},
+{
+  "word" : "burrito",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "bury",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "burn",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "burst",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "bus",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : [ "thing", "place" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "bush",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "business",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "busy",
+  "wordType" : "adjective"
+},
+{
+  "word" : "but",
+  "wordType" : "conjunction"
+},
+{
+  "word" : "butter",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "buy",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "by",
+  "wordType" : "preposition"
+},
+{
+  "word" : "cabin",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "cage",
+  "wordType" : "noun",
+  "nounType" : [ "thing", "place" ]
+},
+{
+  "word" : "cake",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "call",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "calm",
+  "wordType" : "adjective"
+},
+{
+  "word" : "camera",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "camp",
+  "wordType" : "noun",
+  "nounType" : [ "thing", "place" ]
+},
+{
+  "word" : "can",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "canal",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "cap",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "capital",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "capitalism",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "capitalist",
+  "wordType" : "adjective"
+},
+{
+  "word" : "capitalize",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "captain",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "capture",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "car",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "carbon",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "card",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "care",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "careful",
+  "wordType" : "adjective"
+},
+{
+  "word" : "carefully",
+  "wordType" : "adverb"
+},
+{
+  "word" : "carry",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "case",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "cast",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "castle",
+  "wordType" : "noun",
+  "nounType" : [ "thing", "place" ]
+},
+{
+  "word" : "cat",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "catch",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "cause",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "cave",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "place",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "cell",
+  "wordType" : "noun",
+  "nounType" : [ "place", "thing" ]
+},
+{
+  "word" : "cent",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "center",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "central",
+  "wordType" : "adjective"
+},
+{
+  "word" : "century",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "certain",
+  "wordType" : "adjective"
+},
+{
+  "word" : "certainly",
+  "wordType" : "adverb"
+},
+{
+  "word" : "chain",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "chair",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "chamber",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "chance",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "change",
+  "wordType" : [ "verb", "noun" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "chapter",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "character",
+  "wordType" : "noun",
+  "nounType" : [ "person", "thing" ]
+},
+{
+  "word" : "characteristic",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "charge",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "chart",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "check",
+  "wordType" : ["noun", "verb"],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "cheese",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "chemical",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "chemically",
+  "wordType" : "adverb"
+},
+{
+  "word" : "chest",
+  "wordType" : "noun",
+  "nounType" : [ "thing", "place" ]
+},
+{
+  "word" : "chicken",
+  "wordType" : "noun",
+  "nounType" : [ "person", "thing" ]
+},
+{
+  "word" : "chief",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "person"
+},
+{
+  "word" : "child",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "childish",
+  "wordType" : "adjective"
+},
+{
+  "word" : "choice",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "choose",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "chosen",
+  "wordType" : "adjective"
+},
+{
+  "word" : "church",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "circle",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "circular",
+  "wordType" : "adjective"
+},
+{
+  "word" : "circus",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "place"
+},
+{
+  "word" : "citizen",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "city",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "class",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "classroom",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "claw",
+  "wordType" : ["noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "clay",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "clean",
+  "wordType" : [ "adjective", "verb" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "clear",
+  "wordType" : [ "adjective", "verb" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "clearly",
+  "wordType" : "adverb"
+},
+{
+  "word" : "climate",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "climb",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "clock",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "close",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "closely",
+  "wordType" : "adverb"
+},
+{
+  "word" : "cloth",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "clothing",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "cloud",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "club",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "coach",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "coal",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "coast",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "place",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "coat",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "coffee",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "cold",
+  "wordType" : "adjective"
+},
+{
+  "word" : "collect",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "college",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "colony",
+  "wordType" : "noun",
+  "nounType" : [ "thing", "place" ]
+},
+{
+  "word" : "color",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "column",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "combine",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "come",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "comfortable",
+  "wordType" : "adjective"
+},
+{
+  "word" : "command",
+  "wordType" : [ "verb", "noun" ],
+  "verbType" : "transitive",
+  "nounType" : "idea"
+},
+{
+  "word" : "common",
+  "wordType" : "adjective"
+},
+{
+  "word" : "commune",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "place",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "communism",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "communist",
+  "wordType" : "adjective"
+},
+{
+  "word" : "community",
+  "wordType" : "noun",
+  "nounType" : [ "thing", "place" ]
+},
+{
+  "word" : "company",
+  "wordType" :  "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "compare",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "compass",
+  "wordType" : "noun",
+  "verbType" : "thing"
+},
+{
+  "word" : "complete",
+  "wordType" : "adjective"
+},
+{
+  "word" : "completely",
+  "wordType" : "adverb"
+},
+{
+  "word" : "complex",
+  "wordType" : ["adjective", "noun"],
+  "nounType" : ["place", "thing"]
+},
+{
+  "word" : "complicate",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "complication",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "compose",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "composition",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "compound",
+  "wordType" : ["verb", "adjective", "noun"],
+  "verbType" : "transitive",
+  "nounType" : ["place", "thing"]
+},
+{
+  "word" : "concern",
+  "wordType" : [ "verb", "noun" ],
+  "verbType" : "transitive",
+  "nounType" : "idea"
+},
+{
+  "word" : "condition",
+  "wordType" : [ "verb", "noun" ],
+  "verbType" : "transitive",
+  "nounType" : "idea"
+},
+{
+  "word" : "congress",
+  "wordType" :  "noun",
+  "verbType" : "transitive",
+  "nounType" : "thing"
+},
+{
+  "word" : "connect",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "consider",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "consist",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "constant",
+  "wordType" : "adjective"
+},
+{
+  "word" : "constantly",
+  "wordType" : "adverb"
+},
+{
+  "word" : "construction",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "contain",
+  "wordType" :  "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "continent",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "continue",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "contrast",
+  "wordType" : [ "verb", "noun" ],
+  "verbType" : "transitive",
+  "nounType" : "idea"
+},
+{
+  "word" : "control",
+  "wordType" : [ "verb", "noun" ],
+  "verbType" : "transitive",
+  "nounType" : "idea"
+},
+{
+  "word" : "conversation",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "cook",
+  "wordType" : [ "verb", "noun" ],
+  "verbType" : "transitive",
+  "nounType" : "person"
+},
+{
+  "word" : "cookie",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "cool",
+  "wordType" : "adjective"
+},
+{
+  "word" : "copper",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "copy",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "corn",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "corner",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "correct",
+  "wordType" : [ "adjective", "verb" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "correctly",
+  "wordType" : "adverb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "cost",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "cotton",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "count",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : [ "thing", "person" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "countdown",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "country",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "couple",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : [ "thing", "person" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "courage",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "course",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "court",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : [ "thing", "place" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "cover",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "cow",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "cowboy",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "crack",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "cream",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "create",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "creature",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "crew",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "crop",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "cross",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "crowd",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "person",
+  "verbType" : "transitive"
+},
+{
+  "word" : "cry",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "cup",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "curious",
+  "wordType" : "adjective"
+},
+{
+  "word" : "curiously",
+  "wordType" : "adverb"
+},
+{
+  "word" : "curiosity",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "current",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "currently",
+  "wordType" : "adverb"
+},
+{
+  "word" : "curve",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "curvy",
+  "wordType" : [ "adjective" ]
+},
+{
+  "word" : "custom",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "idea"
+},
+{
+  "word" : "cut",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "cyborg",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "daily",
+  "wordType" : "adjective"
+},
+{
+  "word" : "damage",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "dance",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "danger",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "dangerous",
+  "wordType" : "adjective"
+},
+{
+  "word" : "dark",
+  "wordType" : "adjective"
+},
+{
+  "word" : "darkness",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "date",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "daughter",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "dawn",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "day",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "dead",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : [ "thing", "person" ]
+},
+{
+  "word" : "deadly",
+  "wordType" : "adverb"
+},
+{
+  "word" : "deal",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "dear",
+  "wordType" : [ "adjective" ],
+  "nounType" : "person",
+  "verbType" : "transitive"
+},
+{
+  "word" : "dearly",
+  "wordType" : "adverb"
+},
+{
+  "word" : "death",
+  "wordType" : "noun",
+  "nounType" : [ "thing", "person" ]
+},
+{
+  "word" : "deathly",
+  "wordType" : "adverb"
+},
+{
+  "word" : "decide",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "declare",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "deep",
+  "wordType" : "adjective"
+},
+{
+  "word" : "deeply",
+  "wordType" : [ "adverb" ]
+},
+{
+  "word" : "deer",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "defend",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "defense",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "defensive",
+  "wordType" : "adjective"
+},
+{
+  "word" : "definition",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "degree",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "demon",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "demonic",
+  "wordType" : "adjective"
+},
+{
+  "word" : "depend",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "depressed",
+  "wordType" : "adjective"
+},
+{
+  "word" : "depression",
+  "wordType" : "noun",
+  "verbType" : "transitive",
+  "nounType" : "idea"
+},
+{
+  "word" : "depth",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "describe",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "description",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "desert",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "deserted",
+  "wordType" : "adjective"
+},
+{
+  "word" : "design",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "desk",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "detail",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "determine",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "develop",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "development",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "devil",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "devilish",
+  "wordType" : "adjective"
+},
+{
+  "word" : "diagram",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "diameter",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "dick",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "die",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "differ",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "difference",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "different",
+  "wordType" : "adjective"
+},
+{
+  "word" : "difficult",
+  "wordType" : "adjective"
+},
+{
+  "word" : "difficulty",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "dig",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "dine",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "dingleberry",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "dingus",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "dinner",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "direct",
+  "wordType" : [ "adjective", "verb" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "direction",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "directly",
+  "wordType" : "adverb"
+},
+{
+  "word" : "dirt",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "dirty",
+  "wordType" : "adjective"
+},{
+  "word" : "disappear",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "disaster",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "discover",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "discovery",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "discuss",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "discussion",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "disease",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "diseased",
+  "wordType" : "adjective"
+},
+{
+  "word" : "dish",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "distance",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "distant",
+  "wordType" : "adjective"
+},
+{
+  "word" : "divide",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "division",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "do",
+  "wordType" : "verb",
+  "verbType" : "transitive",
+  "irregularSingular" : "does"
+},
+{
+  "word" : "doctor",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "dog",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "doll",
+  "wordType" : "noun",
+  "nounType" : [ "thing", "person" ]
+},
+{
+  "word" : "dollar",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "donkey",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "door",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "dot",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "double",
+  "wordType" : [ "verb", "adjective" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "doubt",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "down",
+  "wordType" : "preposition"
+},
+{
+  "word" : "dozen",
+  "wordType" : [ "noun", "adjective"],
+  "nounType" : "thing"
+},
+{
+  "word" : "draw",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "draw",
+  "verbType" : "transitive"
+},
+{
+  "word" : "dream",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "dress",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "drink",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "drive",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "driven",
+  "wordType" : "adjective"
+},
+{
+  "word" : "drop",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "drug",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "dry",
+  "wordType" : [ "adjective", "verb" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "duck",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "person",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "due",
+  "wordType" : [ "adjective", "noun", "adverb" ],
+  "nounType" : "idea"
+},
+{
+  "word" : "dull",
+  "wordType" : "adjective"
+},
+{
+  "word" : "during",
+  "wordType" : "preposition"
+},
+{
+  "word" : "dust",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "duty",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "each",
+  "wordType" : "determiner"
+},
+{
+  "word" : "eager",
+  "wordType" : "adjective"
+},
+{
+  "word" : "ear",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "early",
+  "wordType" : [ "adjective", "adverb" ]
+},
+{
+  "word" : "earn",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "earth",
+  "wordType" : "noun",
+  "nounType" : [ "thing", "place" ]
+},
+{
+  "word" : "easily",
+  "wordType" : "adverb"
+},
+{
+  "word" : "east",
+  "wordType" : [ "noun", "adverb", "adjective" ],
+  "nounType" : "place"
+},
+{
+  "word" : "easy",
+  "wordType" : "adjective"
+},
+{
+  "word" : "eat",
+  "wordType" : "verb"
+},
+{
+  "word" : "edge",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "education",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "effect",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "effort",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "egg",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "eight",
+  "wordType" : "number"
+},
+{
+  "word" : "either",
+  "wordType" : [ "conjunction", "adverb" ]
+},
+{
+  "word" : "electric",
+  "wordType" : "adjective"
+},
+{
+  "word" : "electricity",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "element",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "elephant",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "eleven",
+  "wordType" : "number"
+},
+{
+  "word" : "else",
+  "wordType" : "adverb"
+},
+{
+  "word" : "empire",
+  "wordType" : "noun",
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "empty",
+  "wordType" : [ "adjective", "verb" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "end",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "enemy",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "energy",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "engine",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "engineer",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "enjoy",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "enough",
+  "wordType" : [ "determiner", "adverb" ]
+},
+{
+  "word" : "enter",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "entire",
+  "wordType" : "adjective"
+},
+{
+  "word" : "entirely",
+  "wordType" : "adverb"
+},
+{
+  "word" : "environment",
+  "wordType" : "noun",
+  "nounType" : [ "thing", "place" ]
+},
+{
+  "word" : "equal",
+  "wordType" : ["noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "equalize",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "equally",
+  "wordType" : "adverb"
+},
+{
+  "word" : "equator",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "equipment",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "escape",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "especially",
+  "wordType" : "adverb"
+},
+{
+  "word" : "essential",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "establish",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "even",
+  "wordType" : [ "adjective", "verb" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "evening",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "event",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "eventually",
+  "wordType" : "adverb"
+},
+{
+  "word" : "ever",
+  "wordType" : "adverb"
+},
+{
+  "word" : "every",
+  "wordType" : "adjective"
+},
+{
+  "word" : "everybody",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "everyone",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "everything",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "everywhere",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "evidence",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "exact",
+  "wordType" : "adjective"
+},
+{
+  "word" : "exactly",
+  "wordType" : "adverb"
+},
+{
+  "word" : "examine",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "example",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "excellent",
+  "wordType" : "adjective"
+},
+{
+  "word" : "except",
+  "wordType" : [ "preposition", "conjunction", "verb" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "exchange",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "excite",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "excited",
+  "wordType" : "adjective"
+},
+{
+  "word" : "excitement",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "exciting",
+  "wordType" : "adjective"
+},
+{
+  "word" : "exclaim",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "exercise",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "exist",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "expect",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "experience",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "experiment",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "explain",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "explanation",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "explore",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "express",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "expression",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "extra",
+  "wordType" : "adjective"
+},
+{
+  "word" : "eye",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "face",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "facing",
+  "wordType" : "adjective"
+},
+{
+  "word" : "fact",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "factor",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "factory",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "fail",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "failed",
+  "wordType" : "adjective"
+},
+{
+  "word" : "failure",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "fair",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "place"
+},
+{
+  "word" : "fairly",
+  "wordType" : "adverb"
+},
+{
+  "word" : "fall",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "fallen",
+  "wordType" : "adjective"
+},
+{
+  "word" : "familiar",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "person"
+},
+{
+  "word" : "family",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "famous",
+  "wordType" : "adjective"
+},
+{
+  "word" : "farm",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "place",
+  "verbType" : "transitive"
+},
+{
+  "word" : "farmer",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "fast",
+  "wordType" : [ "adjective", "verb" ],
+  "verbType" : "intransitive"
+},
+{
+  "word" : "fastened",
+  "wordType" : "adjective"
+},
+{
+  "word" : "fastener",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "faster",
+  "wordType" : "adjective"
+},
+{
+  "word" : "fastest",
+  "wordType" : "adjective"
+},
+{
+  "word" : "fat",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "father",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "favorite",
+  "wordType" : "adjective"
+},
+{
+  "word" : "fear",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "feather",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "feature",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "feed",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "feel",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "fellow",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "felt",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "fence",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "fewer",
+  "wordType" : "adjective"
+},
+{
+  "word" : "field",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "place",
+  "verbType" : "transitive"
+},
+{
+  "word" : "fierce",
+  "wordType" : "adjective"
+},
+{
+  "word" : "fifteen",
+  "wordType" : "number"
+},
+{
+  "word" : "fifty",
+  "wordType" : "number"
+},
+{
+  "word" : "fight",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "figure",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "fill",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "film",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "final",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "finally",
+  "wordType" : "adverb"
+},
+{
+  "word" : "find",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "fine",
+  "wordType" : [ "verb", "noun", "adjective" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "finest",
+  "wordType" : "adjective"
+},
+{
+  "word" : "finger",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "finish",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "fire",
+  "wordType" : [ "verb", "noun" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "fiery",
+  "wordType" : "adjective"
+},
+{
+  "word" : "fireplace",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "firm",
+  "wordType" : [ "adjective", "noun" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "first",
+  "wordType" : "adjective"
+},
+{
+  "word" : "fish",
+  "wordType" : [ "verb", "noun" ],
+  "nounType" : "person",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "five",
+  "wordType" : "number"
+},
+{
+  "word" : "fix",
+  "wordType" : [ "verb", "noun" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "fixer",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "flag",
+  "wordType" : ["noun", "verb"],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "flame",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "flaming",
+  "wordType" : "adjective"
+},
+{
+  "word" : "flat",
+  "wordType" : "adjective"
+},
+{
+  "word" : "flight",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "float",
+  "wordType" : ["noun", "verb"],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "floor",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "flow",
+  "wordType" : ["noun", "verb"],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "flower",
+  "wordType" : ["noun", "verb"],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "fly",
+  "wordType" : ["noun", "verb"],
+  "nounType" : "person",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "fog",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "foggy",
+  "wordType" : "adjective"
+},
+{
+  "word" : "folk",
+  "wordType" : ["noun", "adjective"],
+  "nounType" : "person"
+},
+{
+  "word" : "follow",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "food",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "foot",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "football",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "for",
+  "wordType" : "preposition"
+},
+{
+  "word" : "force",
+  "wordType" : ["noun", "verb"],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "foreign",
+  "wordType" : "adjective"
+},
+{
+  "word" : "forest",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "forget",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "forgotten",
+  "wordType" : "adjective"
+},
+{
+  "word" : "form",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "former",
+  "wordType" : "adjective"
+},
+{
+  "word" : "fort",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "forth",
+  "wordType" : "adverb"
+},
+{
+  "word" : "forty",
+  "wordType" : "number"
+},
+{
+  "word" : "forward",
+  "wordType" : [ "verb", "adjective", "adverb"],
+  "verbType" : "transitive"
+},
+{
+  "word" : "four",
+  "wordType" : "number"
+},
+{
+  "word" : "fox",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "frame",
+  "wordType" : ["noun", "verb"],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "free",
+  "wordType" : ["adjective", "verb"],
+  "verbType" : "transitive"
+},
+{
+  "word" : "freedom",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "freeze",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "frequent",
+  "wordType" : ["adjective", "verb"],
+  "verbType" : "transitive"
+},
+{
+  "word" : "frequently",
+  "wordType" : "adverb"
+},
+{
+  "word" : "fresh",
+  "wordType" : "adjective"
+},
+{
+  "word" : "friend",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "friendly",
+  "wordType" : "adjective"
+},
+{
+  "word" : "frighten",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "frightening",
+  "wordType" : "adjective"
+},
+{
+  "word" : "frog",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "from",
+  "wordType" : "preposition"
+},
+{
+  "word" : "front",
+  "wordType" : [ "verb", "noun" ],
+  "verbType" : "transitive",
+  "nounType" : "place"
+},
+{
+  "word" : "frozen",
+  "wordType" : "adjective"
+},
+{
+  "word" : "fruit",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "fruity",
+  "wordType" : "adjective"
+},
+{
+  "word" : "fuel",
+  "wordType" : [ "verb", "noun" ],
+  "verbType" : "transitive",
+  "nounType" : "thing"
+},
+{
+  "word" : "full",
+  "wordType" : "adjective"
+},
+{
+  "word" : "fully",
+  "wordType" : "adverb"
+},
+{
+  "word" : "fun",
+  "wordType" : [ "adjective", "noun" ],
+  "nounType" : "idea"
+},
+{
+  "word" : "function",
+  "wordType" : [ "verb", "noun" ],
+  "verbType" : "intransitive",
+  "nounType" : "idea"
+},
+{
+  "word" : "funny",
+  "wordType" : "adjective"
+},
+{
+  "word" : "fur",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "furry",
+  "wordType" : "adjective"
+},
+{
+  "word" : "furniture",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "future",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "futuristic",
+  "wordType" : "adjective"
+},
+{
+  "word" : "gain",
+  "wordType" : [ "verb", "noun" ],
+  "verbType" : "transitive",
+  "nounType" : "idea"
+},
+{
+  "word" : "game",
+  "wordType" : [ "verb", "noun" ],
+  "verbType" : "transitive",
+  "nounType" : "thing"
+},
+{
+  "word" : "garage",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "gas",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "gasoline",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "gassy",
+  "wordType" : "adjective"
+},
+{
+  "word" : "general",
+  "wordType" : [ "adjective", "noun" ],
+  "nounType" : "person"
+},
+{
+  "word" : "generally",
+  "wordType" : "adverb"
+},
+{
+  "word" : "gentle",
+  "wordType" : "adjective"
+},
+{
+  "word" : "gently",
+  "wordType" : "adverb"
+},
+{
+  "word" : "get",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "ghost",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "person",
+  "verbType" : "transitive"
+},
+{
+  "word" : "ghostly",
+  "wordType" : "adjective"
+},
+{
+  "word" : "giant",
+  "wordType" : [ "adjective", "noun" ],
+  "nounType" : "person"
+},
+{
+  "word" : "gift",
+  "wordType" : [ "verb", "noun" ],
+  "verbType" : "transitive",
+  "nounType" : "thing"
+},
+{
+  "word" : "girl",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "give",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "glad",
+  "wordType" : "adjective"
+},
+{
+  "word" : "glass",
+  "wordType" : [ "adjective", "noun" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "globe",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "go",
+  "wordType" : "verb",
+  "verbType" : "intransitive",
+  "irregularSingular" : "goes"
+},
+{
+  "word" : "gold",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "golden",
+  "wordType" : "adjective"
+},
+{
+  "word" : "good",
+  "wordType" : "adjective"
+},
+{
+  "word" : "goose",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "government",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "grab",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "grade",
+  "wordType" : [ "verb", "noun" ],
+  "verbType" : "transitive",
+  "nounType" : "idea"
+},
+{
+  "word" : "gradually",
+  "wordType" : "adverb"
+},
+{
+  "word" : "grain",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "grandfather",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "grandmother",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "graph",
+  "wordType" : [ "verb", "noun" ],
+  "verbType" : "transitive",
+  "nounType" : "thing"
+},
+{
+  "word" : "grass",
+  "wordType" :  "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "gravity",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "gray",
+  "wordType" : "adjective",
+  "tags" : "color"
+},
+{
+  "word" : "great",
+  "wordType" : "adjective"
+},
+{
+  "word" : "greatest",
+  "wordType" : "adjective"
+},
+{
+  "word" : "greatly",
+  "wordType" : "adverb"
+},
+{
+  "word" : "green",
+  "wordType" : "adjective",
+  "tags" : "color"
+},
+{
+  "word" : "ground",
+  "wordType" : [ "verb", "noun" ],
+  "verbType" : "transitive",
+  "nounType" : "place"
+},
+{
+  "word" : "group",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "grow",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "grown",
+  "wordType" : "adjective"
+},
+{
+  "word" : "growth",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "guard",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "person",
+  "verbType" : "transitive"
+},
+{
+  "word" : "guess",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "guide",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "person",
+  "verbType" : "transitive"
+},
+{
+  "word" : "gulf",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "gun",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "habit",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "hair",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "half",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive",
+  "irregularSingular" : "halves"
+},
+{
+  "word" : "hall",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "place"
+},
+{
+  "word" : "hand",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "handle",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "handsome",
+  "wordType" : "adjective"
+},
+{
+  "word" : "hang",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "happen",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "happy",
+  "wordType" : "adjective"
+},
+{
+  "word" : "harbor",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "place",
+  "verbType" : "transitive"
+},
+{
+  "word" : "hard",
+  "wordType" : "adjective"
+},
+{
+  "word" : "hardly",
+  "wordType" : "adverb"
+},
+{
+  "word" : "hat",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "have",
+  "wordType" : "verb",
+  "verbType" : "transitive",
+  "irregularSingular" : "has"
+},
+{
+  "word" : "hay",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "he",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "head",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "health",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "healthy",
+  "wordType" : "adjective"
+},
+{
+  "word" : "hear",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "heart",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "heat",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "heavy",
+  "wordType" : "adjective"
+},
+{
+  "word" : "height",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "hell",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "hellish",
+  "wordType" : "adjective"
+},
+{
+  "word" : "help",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "helpful",
+  "wordType" : "adjective"
+},
+{
+  "word" : "her",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "person"
+},
+{
+  "word" : "herd",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "person",
+  "verbType" : "transitive"
+},
+{
+  "word" : "hidden",
+  "wordType" : "adjective"
+},
+{
+  "word" : "hide",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "high",
+  "wordType" : "adjective"
+},
+{
+  "word" : "highway",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "hill",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "him",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "history",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "hit",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "hold",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "hole",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "hollow",
+  "wordType" : "adjective"
+},
+{
+  "word" : "home",
+  "wordType" : "noun",
+  "nounType" : "placec"
+},{
+  "word" : "honor",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "Idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "hope",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "horn",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "horny",
+  "wordType" : "adjective"
+},
+{
+  "word" : "horse",
+  "wordType" : "noun",
+  "nounType" : "person",
+  "tags" : "animal"
+},
+{
+  "word" : "hospital",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "hot",
+  "wordType" : "adjective"
+},
+{
+  "word" : "hour",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "house",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "place",
+  "verbType" : "transitive"
+},
+{
+  "word" : "how",
+  "wordType" : "adverb"
+},
+{
+  "word" : "however",
+  "wordType" : "adverb"
+},
+{
+  "word" : "huge",
+  "wordType" : "adjective"
+},
+{
+  "word" : "human",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "hundred",
+  "wordType" : "number"
+},
+{
+  "word" : "hungry",
+  "wordType" : "adjective"
+},
+{
+  "word" : "hunt",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "hunter",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "hurry",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "hurt",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "husband",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "ice",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "idea",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "identify",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "identity",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "ill",
+  "wordType" : "adjective"
+},
+{
+  "word" : "image",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "imagine",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "immediately",
+  "wordType" : "adverb"
+},
+{
+  "word" : "important",
+  "wordType" : "adjective"
+},
+{
+  "word" : "impossible",
+  "wordType" : "adjective"
+},
+{
+  "word" : "improve",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "in",
+  "wordType" : "preposition"
+},
+{
+  "word" : "inch",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "include",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "including",
+  "wordType" : "preposition"
+},
+{
+  "word" : "income",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "increase",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "indeed",
+  "wordType" : [ "adverb", "interjection" ]
+},
+{
+  "word" : "independent",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "person"
+},
+{
+  "word" : "indicate",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "individual",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "person"
+},
+{
+  "word" : "industrial",
+  "wordType" : "adjective"
+},
+{
+  "word" : "industry",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "influence",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "inform",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "informant",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "information",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "inside",
+  "wordType" : "adjective"
+},
+{
+  "word" : "instance",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "instant",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "idea"
+},
+{
+  "word" : "instead",
+  "wordType" : "adverb"
+},
+{
+  "word" : "instrument",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "interest",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "interior",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "place"
+},
+{
+  "word" : "into",
+  "wordType" : "preposition"
+},
+{
+  "word" : "introduce",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "introduction",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "invent",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "invention",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "involve",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "iron",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "island",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "it",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "jack",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "jar",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "jet",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "job",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "join",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "journey",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "joy",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "judge",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "person",
+  "verbType" : "transitive"
+},
+{
+  "word" : "jump",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "jungle",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "just",
+  "wordType" : [ "adjective", "adverb" ]
+},
+{
+  "word" : "keep",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "place",
+  "verbType" : "transitive"
+},
+{
+  "word" : "key",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "kid",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "person",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "kill",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "killer",
+  "wordType" : [ "adjective", "noun" ],
+  "nounType" : "person"
+},
+{
+  "word" : "kind",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "person"
+},
+{
+  "word" : "kitchen",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "knife",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "know",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "knowledge",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "label",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "labor",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "lack",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "lady",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "lake",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "lamp",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "land",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "place",
+  "verbType" : "transitive"
+},
+{
+  "word" : "language",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "large",
+  "wordType" : "adjective"
+},
+{
+  "word" : "last",
+  "wordType" : [ "adjective", "verb" ],
+  "verbType" : "intransitive"
+},
+{
+  "word" : "late",
+  "wordType" : "adjective"
+},
+{
+  "word" : "lately",
+  "wordType" : "adverb"
+},
+{
+  "word" : "laugh",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "law",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "lay",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "layer",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "lead",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "leader",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "leaf",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "learn",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "least",
+  "wordType" : [ "determiner", "pronoun", "adverb" ]
+},
+{
+  "word" : "leather",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "leave",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "left",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "leg",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "length",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "lesson",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "let",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "letter",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "level",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "library",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "lie",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "life",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "lift",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "light",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "like",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "likely",
+  "wordType" : "adverb"
+},
+{
+  "word" : "limit",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "limited",
+  "wordType" : "adjective"
+},
+{
+  "word" : "line",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "lion",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "lip",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "liquid",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "list",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "listen",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "little",
+  "wordType" : "adjective"
+},
+{
+  "word" : "live",
+  "wordType" : [ "adjective", "verb" ],
+  "verbType" : "intransitive"
+},
+{
+  "word" : "living",
+  "wordType" : "adjective"
+},
+{
+  "word" : "load",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "local",
+  "wordType" : "adjective"
+},
+{
+  "word" : "locale",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "locate",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "location",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "log",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "lonely",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "long",
+  "wordType" : [ "adjective", "verb" ],
+  "verbType" : "intransitive"
+},
+{
+  "word" : "list",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "look",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "loose",
+  "wordType" : [ "adjective", "verb" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "lore",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "lose",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "loss",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "lost",
+  "wordType" : "adjective"
+},
+{
+  "word" : "lot",
+  "wordType" : "noun",
+  "nounType" : [ "thing", "place" ]
+},
+{
+  "word" : "loud",
+  "wordType" : "adjective"
+},
+{
+  "word" : "love",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "liovely",
+  "wordType" : "adjective"
+},
+{
+  "word" : "low",
+  "wordType" : "adjective"
+},
+{
+  "word" : "luck",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "lucky",
+  "wordType" : "adjective"
+},
+{
+  "word" : "lunch",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "lung",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "machine",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "machinery",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "mad",
+  "wordType" : "adjective"
+},
+{
+  "word" : "mage",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "magic",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "magnet",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "mail",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "main",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "mainly",
+  "wordType" : "adverb"
+},
+{
+  "word" : "major",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "make",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "man",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "manage",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "manifest",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "manifesto",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "manner",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "manufacture",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "many",
+  "wordType" : [ "determiner", "pronoun", "adjective" ]
+},
+{
+  "word" : "map",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "mark",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "market",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "marry",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "mass",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "massage",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "master",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "person",
+  "verbType" : "transitive"
+},
+{
+  "word" : "material",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "mathematics",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "matriarch",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "matriarchal",
+  "wordType" : "adjective"
+},
+{
+  "word" : "matriarchy",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "matron",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "matronly",
+  "wordType" : "adjective"
+},
+{
+  "word" : "matter",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "me",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "meal",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "mean",
+  "wordType" : [ "noun", "verb", "adjective" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "measure",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "meat",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "medicine",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "meet",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "place",
+  "verbType" : "transitive"
+},
+{
+  "word" : "melt",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "member",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "memory",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "mental",
+  "wordType" : "adjective"
+},
+{
+  "word" : "merely",
+  "wordType" : "adverb"
+},
+{
+  "word" : "metal",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "method",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "middle",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "place"
+},
+{
+  "word" : "might",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "mighty",
+  "wordType" : "adjective"
+},
+
+{
+  "word" : "mile",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "military",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "milk",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "mill",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "mind",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "mine",
+  "wordType" : [ "noun", "verb", "adjective" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "minute",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "mirror",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "miss",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+
+{
+  "word" : "mission",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "mistake",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "mix",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "mixture",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "model",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "modern",
+  "wordType" : "adjective"
+},
+{
+  "word" : "molecule",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "molecular",
+  "wordType" : "adjective"
+},
+{
+  "word" : "moment",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "monarch",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "monarchy",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "money",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "monkey",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "month",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "mood",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "moon",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "more",
+  "wordType" : [ "determiner", "pronoun", "adverb" ]
+},
+{
+  "word" : "morning",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "most",
+  "wordType" : [ "determiner", "pronoun", "adverb" ]
+},
+{
+  "word" : "mother",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "motion",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "motor",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "mountain",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "mouse",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "mouth",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "move",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "movement",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "movie",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "mud",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "muddy",
+  "wordType" : "adjective"
+},
+{
+  "word" : "muscle",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "muscular",
+  "wordType" : "adjective"
+},
+{
+  "word" : "music",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "musical",
+  "wordType" : "adjective"
+},
+{
+  "word" : "musically",
+  "wordType" : "adverb"
+},
+{
+  "word" : "must",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "my",
+  "wordType" : "determiner"
+},
+{
+  "word" : "mystery",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "mysterious",
+  "wordType" : "adjective"
+},
+{
+  "word" : "nail",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "name",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "nation",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "national",
+  "wordType" : "adjective"
+},
+{
+  "word" : "native",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "person"
+},
+{
+  "word" : "nature",
+  "wordType" : "noun",
+  "nounType" : [ "thing", "place" ]
+},
+{
+  "word" : "natural",
+  "wordType" : "adjective"
+},
+{
+  "word" : "naturally",
+  "wordType" : "adverb"
+},
+{
+  "word" : "nauseous",
+  "wordType" : "adjective"
+},
+{
+  "word" : "near",
+  "wordType" : [ "preposition", "verb", "adjective" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "nearly",
+  "wordType" : "adverb"
+},
+{
+  "word" : "necessary",
+  "wordType" : "adjective"
+},
+{
+  "word" : "neck",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "necklace",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "need",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "needle",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "negative",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "neighbor",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "neighborhood",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "nervous",
+  "wordType" : "adjective"
+},
+{
+  "word" : "nest",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "place",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "never",
+  "wordType" : "adverb"
+},
+{
+  "word" : "new",
+  "wordType" : "adjective"
+},
+{
+  "word" : "news",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "newspaper",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "next",
+  "wordType" : [ "adjective", "preposition", "adverb" ]
+},
+{
+  "word" : "nice",
+  "wordType" : "adjective"
+},
+{
+  "word" : "night",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "idea"
+},
+{
+  "word" : "nine",
+  "wordType" : "number"
+},
+{
+  "word" : "ninja",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "no",
+  "wordType" : [ "adverb", "adjective", "noun" ],
+  "nounType" : "idea"
+},
+{
+  "word" : "nobody",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "nod",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "noise",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "none",
+  "wordType" : "pronoun"
+},
+{
+  "word" : "noon",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "nor",
+  "wordType" : "conjunction"
+},
+{
+  "word" : "north",
+  "wordType" : [ "noun", "adverb", "adjective" ],
+  "nounType" : "place"
+},
+{
+  "word" : "nose",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "not",
+  "wordType" : "adverb"
+},
+{
+  "word" : "note",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "nothing",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "notice",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "now",
+  "wordType" : [ "adverb", "conjunction" ]
+},
+{
+  "word" : "number",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "nut",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "object",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "observe",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "obtain",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "occasionally",
+  "wordType" : "adverb"
+},
+{
+  "word" : "occur",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "ocean",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "octopus",
+  "wordType" : "noun",
+  "nounType" : "animal"
+},
+{
+  "word" : "of",
+  "wordType" : "preposition"
+},
+{
+  "word" : "off",
+  "wordType" : [ "preposition", "adverb"]
+},
+{
+  "word" : "offense",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "offensive",
+  "wordType" : "adjective"
+},
+{
+  "word" : "offer",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "office",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "officer",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "official",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "person"
+},
+{
+  "word" : "oil",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "old",
+  "wordType" : "adjective"
+},
+{
+  "word" : "on",
+  "wordType" : [ "preposition", "adverb" ]
+},
+{
+  "word" : "once",
+  "wordType" : [ "conjunction", "adverb", "adjective" ]
+},
+{
+  "word" : "one",
+  "wordType" : "number"
+},
+{
+  "word" : "only",
+  "wordType" : [ "adverb", "adjective", "conjunction" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "onto",
+  "wordType" : "preposition"
+},
+{
+  "word" : "open",
+  "wordType" : [ "verb", "adjective"],
+  "verbType" : "transitive"
+},
+{
+  "word" : "operate",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "operation",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "opine",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "opinion",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "opinionated",
+  "wordType" : "adjective"
+},
+{
+  "word" : "opportune",
+  "wordType" : "adjective"
+},
+{
+  "word" : "opportunity",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "oppose",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "opposite",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "idea"
+},
+{
+  "word" : "or",
+  "wordType" : "conjunction"
+},
+{
+  "word" : "orange",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing",
+  "tags" : "color"
+},
+{
+  "word" : "orbit",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "order",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "ordinary",
+  "wordType" : "adjective"
+},
+{
+  "word" : "organize",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "organization",
+  "wordType" : "noun",
+  "nounType" : [ "thing", "place" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "organized",
+  "wordType" : "adjective"
+},
+{
+  "word" : "origin",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "original",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "originally",
+  "wordType" : "adverb"
+},
+{
+  "word" : "other",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "person"
+},
+{
+  "word" : "ought",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive",
+  "irregularSingular" : "ought to"
+},
+{
+  "word" : "our",
+  "wordType" : "determiner"
+},
+{
+  "word" : "out",
+  "wordType" : [ "adverb", "adjective", "preposition", "noun", "verb"],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+
+},
+{
+  "word" : "outline",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "outside",
+  "wordType" : [ "adverb", "preposition", "noun" ],
+  "nounType" : "place"
+},
+{
+  "word" : "over",
+  "wordType" : [ "preposition", "adverb" ]
+},
+{
+  "word" : "own",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "owner",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "oxygen",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "outline",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "pack",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "package",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "page",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "pain",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "paint",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "pair",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "palace",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "pale",
+  "wordType" : [ "adjective", "verb" ],
+  "verbType" : "intransitive"
+},
+{
+  "word" : "pan",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "paper",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "paragraph",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "parallel",
+  "wordType" : [ "adjective", "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "parent",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "person",
+  "verbType" : "transitive"
+},
+{
+  "word" : "park",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "place",
+  "verbType" : "transitive"
+},
+{
+  "word" : "part",
+  "wordType" : [ "adverb", "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "particle",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "particular",
+  "wordType" : "adjective"
+},
+{
+  "word" : "partial",
+  "wordType" : "adjective"
+},
+{
+  "word" : "partially",
+  "wordType" : "adverb"
+},
+{
+  "word" : "particlarly",
+  "wordType" : "adverb"
+},
+{
+  "word" : "partly",
+  "wordType" : "adverb"
+},
+{
+  "word" : "party",
+  "wordType" : [ "adjective", "noun", "verb" ],
+  "nounType" : [ "thing", "place" ],
+  "verbType" : "intransitive"
+},
+{
+  "word" : "pass",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "passage",
+  "wordType" : "noun",
+  "nounType" : ["thing", "place" ]
+},
+{
+  "word" : "past",
+  "wordType" : [ "adjective", "adverb", "noun", "preposition" ],
+  "nounType" : "idea"
+},
+{
+  "word" : "path",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : ["thing", "place" ],
+  "verbType" : "intransitive"
+},
+{
+  "word" : "patriarch",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "patriarchal",
+  "wordType" : "adjective"
+},
+{
+  "word" : "patriarchy",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "patron",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "patronly",
+  "wordType" : "adjective"
+},
+{
+  "word" : "pattern",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "patterned",
+  "wordType" : "adjective"
+},
+{
+  "word" : "pay",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "peace",
+  "wordType" : [ "noun", "exclamation" ],
+  "nounType" : "idea"
+},
+{
+  "word" : "pen",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "pencil",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "people",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "per",
+  "wordType" : "preposition"
+},
+{
+  "word" : "perfect",
+  "wordType" : [ "adjective", "verb" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "perfectly",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "perhaps",
+  "wordType" : "adverb"
+},
+{
+  "word" : "period",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "person",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "personal",
+  "wordType" : "adjective"
+},
+{
+  "word" : "personally",
+  "wordType" : "adverb"
+},
+{
+  "word" : "pet",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "person",
+  "verbType" : "transitive"
+},
+{
+  "word" : "phrase",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "physical",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "piano",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "pianist",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "pick",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "picture",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "pie",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "piece",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "pig",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "pike",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "pile",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "pilot",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "person",
+  "verbType" : "transitive"
+},
+{
+  "word" : "pine",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "pink",
+  "wordType" : "adjective",
+  "tags" : "color"
+},
+{
+  "word" : "pipe",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "piracy",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "pirate",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "pitch",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "place",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "place",
+  "verbType" : "transitive"
+},
+{
+  "word" : "plain",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "plan",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "plane",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "planet",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "plant",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "plastic",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "plate",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "play",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "pleasant",
+  "wordType" : "adjective"
+},
+{
+  "word" : "please",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "pleasure",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "plenty",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "plural",
+  "wordType" : "adjective"
+},
+{
+  "word" : "plus",
+  "wordType" : [ "adjective", "conjunction",  "noun", "preposition"],
+  "nounType" : "thing"
+},
+{
+  "word" : "pocket",
+  "wordType" : [ "adjective", "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "poem",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "poet",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "poetry",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "point",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "pole",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "police",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "person",
+  "verbType" : "transitive"
+},
+{
+  "word" : "political",
+  "wordType" : "adjective"
+},
+{
+  "word" : "politician",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "pond",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "pony",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "pool",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "place",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "poor",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "person"
+},
+{
+  "word" : "popular",
+  "wordType" : "adjective"
+},
+{
+  "word" : "population",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "porch",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "port",
+  "wordType" : "noun",
+  "nounType" : ["thing", "place" ]
+},
+{
+  "word" : "position",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "place",
+  "verbType" : "transitive"
+},
+{
+  "word" : "positive",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "idea"
+},
+{
+  "word" : "positively",
+  "wordType" : "adverb"
+},
+{
+  "word" : "possible",
+  "wordType" : "adjective"
+},
+{
+  "word" : "possibility",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "post",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "pot",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "potato",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "pound",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "pour",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "powder",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "power",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "powerful",
+  "wordType" : "adverb"
+},
+{
+  "word" : "practical",
+  "wordType" : "adjective"
+},
+{
+  "word" : "practically",
+  "wordType" : "adverb"
+},
+{
+  "word" : "practice",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "prepare",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "present",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "president",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "press",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : ["thing", "person" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "pressure",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "pretty",
+  "wordType" : [ "adjective", "adverb", "verb" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "prevent",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "previous",
+  "wordType" : "adjective"
+},
+{
+  "word" : "price",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "pride",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : [ "idea", "thing" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "primal",
+  "wordType" : "adjective"
+},
+{
+  "word" : "primate",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "primitive",
+  "wordType" : "adjective"
+},
+{
+  "word" : "principal",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : [ "thing", "person" ]
+},
+{
+  "word" : "principle",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "print",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "privacy",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "private",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "person"
+},
+{
+  "word" : "privatize",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "prize",
+  "wordType" : [ "adjective", "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "probably",
+  "wordType" : "adverb"
+},
+{
+  "word" : "problem",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "south",
+  "wordType" : [ "noun", "adverb", "adjective" ],
+  "nounType" : "place"
+},
+{
+  "word" : "space",
+  "wordType" : [ "adjective", "noun", "verb" ],
+  "nounType" : "place",
+  "verbType" : "transitive"
+},
+{
+  "word" : "the",
+  "wordType" : "article"
+},
+{
+  "word" : "uncle",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "under",
+  "wordType" : "preposition"
+},
+{
+  "word" : "underline",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "understand",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "understanding",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "idea"
+},
+{
+  "word" : "unhappy",
+  "wordType" : "adjective"
+},
+{
+  "word" : "union",
+  "wordType" : "noun",
+  "nounType" : [ "place", "idea"]
+},
+{
+  "word" : "unit",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "universe",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "universal",
+  "wordType" : "adjective"
+},
+{
+  "word" : "unknown",
+  "wordType" : "adjective"
+},
+{
+  "word" : "unless",
+  "wordType" : "conjunction"
+},
+{
+  "word" : "until",
+  "wordType" : [ "preposition", "conjunction" ]
+},
+{
+  "word" : "unusual",
+  "wordType" : "adjective"
+},
+{
+  "word" : "up",
+  "wordType" : [ "adjective", "adverb", "preposition", "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "upon",
+  "wordType" : "preposition"
+},
+{
+  "word" : "use",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "useful",
+  "wordType" : "adjective"
+},
+{
+  "word" : "usual",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "idea"
+},
+{
+  "word" : "usually",
+  "wordType" : "adverb"
+},
+{
+  "word" : "valley",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "valuable",
+  "wordType" : "adjective"
+},
+{
+  "word" : "value",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "vapor",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "variety",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "various",
+  "wordType" : "adjective"
+},
+{
+  "word" : "vast",
+  "wordType" : "adjective"
+},
+{
+  "word" : "vegetable",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "vertical",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "very",
+  "wordType" : [ "adjective", "adverb" ]
+},
+{
+  "word" : "value",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "vessel",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "victory",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "view",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "village",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "visit",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "visitor",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "voice",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "volume",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "vote",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "voyage",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "wagon",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "wait",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "walk",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "wall",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "want",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "war",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "warm",
+  "wordType" : [ "adjective", "verb" ],
+  "verbType" : "transitive"
+},
+{
+  "word" : "warn",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "warrior",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "wash",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "waste",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "watch",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "water",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "wave",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "way",
+  "wordType" : [ "noun", "adverb" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "weak",
+  "wordType" : "adjective"
+},
+{
+  "word" : "wealth",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "wealthy",
+  "wordType" : "adjective"
+},
+{
+  "word" : "wear",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "weary",
+  "wordType" : "adjective"
+},
+{
+  "word" : "weather",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "week",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "weigh",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "weight",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "welcome",
+  "wordType" : "adjective"
+},
+{
+  "word" : "well",
+  "wordType" : [ "noun", "verb", "adverb" ],
+  "nounType" : "place",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "west",
+  "wordType" : [ "noun", "adverb", "adjective" ],
+  "nounType" : "place"
+},
+{
+  "word" : "western",
+  "wordType" : "adjective"
+},
+{
+  "word" : "wet",
+  "wordType" : "adjective"
+},
+{
+  "word" : "whale",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "what",
+  "wordType" : [ "pronoun", "determiner", "adverb" ]
+},
+{
+  "word" : "whatever",
+  "wordType" : [ "pronoun", "determiner", "adverb" ]
+},
+{
+  "word" : "wheat",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "wheel",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "when",
+  "wordType" : [ "conjunction", "adverb" ]
+},
+{
+  "word" : "whenever",
+  "wordType" : [ "conjunction", "adverb" ]
+},
+{
+  "word" : "where",
+  "wordType" : [ "conjunction", "adverb" ]
+},
+{
+  "word" : "wherever",
+  "wordType" : [ "conjunction", "adverb" ]
+},
+{
+  "word" : "whether",
+  "wordType" : "conjunction"
+},
+{
+  "word" : "which",
+  "wordType" : [ "pronoun", "determiner" ]
+},
+{
+  "word" : "while",
+  "wordType" : [ "adverb", "conjunction", "noun"],
+  "nounType" : "idea"
+},
+{
+  "word" : "whisper",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "whistle",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "white",
+  "wordType" : "adjective",
+  "tags" : "color"
+},
+{
+  "word" : "who",
+  "wordType" : "pronoun"
+},
+{
+  "word" : "whole",
+  "wordType" : [ "adjective", "noun", "adverb" ],
+  "nounType" : "thing"
+},
+{
+  "word" : "whoever",
+  "wordType" : "pronoun"
+},
+{
+  "word" : "why",
+  "wordType" : "adverb"
+},
+{
+  "word" : "wide",
+  "wordType" : "adjective"
+},
+{
+  "word" : "widely",
+  "wordType" : "adverb"
+},
+{
+  "word" : "wife",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "wild",
+  "wordType" : "adjective"
+},
+{
+  "word" : "will",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "willing",
+  "wordType" : "adjective"
+},
+{
+  "word" : "win",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "wind",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "window",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "wing",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "winter",
+  "wordType" : [ "adjective", "noun"],
+  "nounType" : "idea"
+},
+{
+  "word" : "winterize",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "wire",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "wise",
+  "wordType" : "adjective"
+},
+{
+  "word" : "wish",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "with",
+  "wordType" : "preposition"
+},
+{
+  "word" : "within",
+  "wordType" : "adjective"
+},
+{
+  "word" : "without",
+  "wordType" : "adjective"
+},
+{
+  "word" : "wizard",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "wolf",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "person",
+  "verbType" : "transitive"
+},
+{
+  "word" : "woman",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "wonder",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "wonderful",
+  "wordType" : "adjective"
+},
+{
+  "word" : "wood",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "wooden",
+  "wordType" : "adjective"
+},
+{
+  "word" : "wool",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "word",
+  "wordType" : [ "noun", "verb", "exclamation" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "work",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "worker",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "world",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "worry",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "worse",
+  "wordType" : [ "adjective", "adverb", "noun" ],
+  "nounType" : "idea"
+},
+{
+  "word" : "worth",
+  "wordType" : [ "adjective", "noun" ],
+  "nounType" : "idea"
+},
+{
+  "word" : "would",
+  "wordType" : "verb",
+  "verbType" : "intransitive"
+},
+{
+  "word" : "wrap",
+  "wordType" : [ "noun", "verb" ],
+  "nounType" : "thing",
+  "verbType" : "transitive"
+},
+{
+  "word" : "write",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "writer",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "written",
+  "wordType" : "adjective"
+},
+{
+  "word" : "wrong",
+  "wordType" : [ "adjective", "adverb", "noun", "verb" ],
+  "nounType" : "idea",
+  "verbType" : "transitive"
+},
+{
+  "word" : "yard",
+  "wordType" : "noun",
+  "nounType" : "place"
+},
+{
+  "word" : "year",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "yellow",
+  "wordType" : "adjective",
+  "tags" : "color"
+},
+{
+  "word" : "yes",
+  "wordType" : [ "noun", "exclamation" ],
+  "nounType" : "idea"
+},
+{
+  "word" : "yesterday",
+  "wordType" : "noun",
+  "nounType" : "idea"
+},
+{
+  "word" : "yet",
+  "wordType" : [ "adverb", "conjunction" ]
+},
+{
+  "word" : "you",
+  "wordType" : "pronoun"
+},
+{
+  "word" : "young",
+  "wordType" : [ "noun", "adjective" ],
+  "nounType" : "person"
+},
+{
+  "word" : "youth",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "zebra",
+  "wordType" : "noun",
+  "nounType" : "person"
+},
+{
+  "word" : "zero",
+  "wordType" : "number"
+},
+{
+  "word" : "zip",
+  "wordType" : "verb",
+  "verbType" : "transitive"
+},
+{
+  "word" : "zipper",
+  "wordType" : "noun",
+  "nounType" : "thing"
+},
+{
+  "word" : "zoo",
+  "wordType" : "noun",
+  "nounType" : "place"
+}
+]
