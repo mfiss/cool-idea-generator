@@ -35,7 +35,6 @@ const mapDispatchToProps = dispatch => {
 class ConnectedButton extends Component {
 
 handleClick = e => {
-  // e.preventDefault();
   this.props.addWord(this.props.content);
 
 };
