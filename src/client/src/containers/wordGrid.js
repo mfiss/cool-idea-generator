@@ -5,8 +5,8 @@ import WordButton from "../components/WordButton";
 import styled from 'styled-components'
 
 const GRID_QUERY = gql`
-        query getSomeRandomWords($numWords: Int!) {
-          getSomeRandomWords(numWords: $numWords) {
+        query getSomeRandomWordsByWordType($numWords: Int!, $wordType: [String]) {
+          getSomeRandomWordsByWordType(numWords: $numWords, wordType: $wordType) {
           _id
           word
           wordType
@@ -26,12 +26,16 @@ const numWords = () => {
   return 100;
 }
 
-const PopulateWordGrid = ({ numWords }) => (
-      <Query query = { GRID_QUERY } variables={{ numWords }}>
+const wordType = () => {
+  return "noun";
+}
+
+const PopulateWordGrid = ({ numWords, wordType }) => (
+      <Query query = { GRID_QUERY } variables={{ numWords, wordType }}>
        {({ loading, error, data }) => {
         if (loading) return <p>Loading...</p>;
         if (error) return <p>Error :( Try reloading!</p>;
-          let RandomWordsSet = new Set(data.getSomeRandomWords)
+          let RandomWordsSet = new Set(data.getSomeRandomWordsByWordType)
           return [...RandomWordsSet].map(({ _id, word, wordType }) => (
             <WordButton key={ _id } content={word}> { word }</WordButton>
             ));
@@ -46,10 +50,7 @@ export class WordGrid extends Component {
   render() {
     return(
       <StyledGrid>
-        <PopulateWordGrid numWords={ numWords() } />
+        <PopulateWordGrid numWords={ numWords() } wordType={ wordType() } />
           </StyledGrid>
         )};
       };
-
-
-      //   console.log(data.getSomeRandomWords)

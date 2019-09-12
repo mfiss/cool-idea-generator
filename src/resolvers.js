@@ -8,22 +8,24 @@ export const resolvers = {
         },
         async getSomeRandomWords(_, { numWords }) {
             return await Word.aggregate(
-        [
-             { $unwind : "$wordType"},
-             { $sample : { size: numWords }}
-             
-        ])
-        },
-async getSomeRandomWordsByWordTypes(_, [{ numWords }, { wordTypes }]) {
+                [
+                { $unwind : "$wordType"},
+                { $sample : { size: numWords }}
 
+                ])
+        },
+        async getSomeRandomWordsByWordType(_, { numWords, wordType }) {
             return await Word.aggregate(
-        [    
-             { $in : wordTypes },
-             { $unwind : "$wordType"},
-             { $sample : { size : numWords }}
-             
-        ])
-        },        
+                [    
+                { $unwind : "$wordType"},
+                { $match: { 
+                    wordType: { $in:  wordType }  }
+                },
+
+                { $sample : { size : numWords }}
+
+                ])
+        },
         async getWordById(_, { _id }) {
             return await Word.findById(_id);
         },

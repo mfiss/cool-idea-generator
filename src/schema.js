@@ -11,11 +11,11 @@ type Word {
 
 type Query {
 	allWords: [Word]
-	getSomeRandomWords(numWords: Int): [Word]
-	getSomeRandomWordsByWordTypes(numWords: Int, wordTypes: String): [Word]
+	getSomeRandomWords(numWords: Int!): [Word]
+	getSomeRandomWordsByWordType(numWords: Int!, wordType: [String]): [Word]
 	getWordById(_id: ID) : Word
 	getWordByWord(word: String) : Word
-	getWordByType(wordType: String) :[Word]
+	getWordByType(wordType: [String]) :[Word]
 }
 
 input WordInput{
