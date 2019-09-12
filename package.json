@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "main": "src/client/app.js",
+  "engines": {
+    "node": "8.12.0",
+    "yarn": "1.12.3"
+  },
   "scripts": {
     "build": "cd src && cd client && yarn build",
     "client": "cd src && cd client && react-scripts start",
