@@ -34,7 +34,7 @@
     "express-graphql": "^0.6.12",
     "graphql": "git://github.com/graphql/graphql-js.git#npm",
     "graphql-tools": "^2.24.0",
-    "mongoose": "^5.0.14",
+    "mongoose": "^5.7.5",
     "react": "^16.6.1",
     "react-apollo": "^2.2.4",
     "react-dom": "^16.6.1",
