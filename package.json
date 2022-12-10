@@ -30,7 +30,7 @@
     "babel-plugin-styled-components": "^1.8.0",
     "cors": "^2.8.5",
     "dotenv": "^6.1.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-graphql": "^0.6.12",
     "graphql": "git://github.com/graphql/graphql-js.git#npm",
     "graphql-tools": "^2.24.0",
